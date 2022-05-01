@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(0.0194678,0,0,0.0194678,7.97277,7.96909)">
+        <g id="soliditiy-active">
+            <g id="Solidity_logo.svg" transform="matrix(1,0,0,1,-261.95,-406.5)">
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="523.9" height="813"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <path d="M391.9,0L261.2,232.3L0,232.3L130.6,0L391.9,0" style="fill:rgb(88,94,111);fill-opacity:0.45;fill-rule:nonzero;"/>
+                    <path d="M261.2,232.3L522.5,232.3L391.9,0L130.6,0L261.2,232.3Z" style="fill-opacity:0.6;fill-rule:nonzero;"/>
+                    <path d="M130.6,464.5L261.2,232.3L130.6,0L0,232.3L130.6,464.5Z" style="fill-opacity:0.8;fill-rule:nonzero;"/>
+                    <path d="M131.9,813L262.6,580.7L523.9,580.7L393.2,813L131.9,813" style="fill:rgb(88,94,111);fill-opacity:0.45;fill-rule:nonzero;"/>
+                    <path d="M262.6,580.7L1.3,580.7L131.9,813L393.2,813L262.6,580.7Z" style="fill-opacity:0.6;fill-rule:nonzero;"/>
+                    <path d="M393.2,348.5L262.6,580.7L393.2,813L523.9,580.7L393.2,348.5Z" style="fill-opacity:0.8;fill-rule:nonzero;"/>
+                </g>
+            </g>
+            <g id="Solidity_logo.svg1" serif:id="Solidity_logo.svg">
+            </g>
+        </g>
+    </g>
+</svg>

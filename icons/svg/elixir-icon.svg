@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="elixir-light" transform="matrix(0.121586,0,0,0.121586,6.32328,8.68069)">
+        <g id="elixir" transform="matrix(4.16667,0,0,4.16667,13.2804,-4.74999)">
+            <g id="elixir-light1" serif:id="elixir-light">
+                <g id="elixir1" serif:id="elixir" transform="matrix(1,0,0,1,-16,-16)">
+                    <path d="M17.8,8.591C19.879,13.175 25.44,15.091 24.941,21.065C24.359,28.082 19.39,29.849 16.625,29.974C12.039,30.33 7.905,27.039 7.225,22.489C5.618,15.046 12.655,3.632 16.709,2C16.575,4.251 16.948,6.503 17.8,8.591ZM17.634,27.448C17.66,27.336 17.64,27.218 17.577,27.121C16.984,26.021 11.767,25.476 10.67,25.369C11.158,25.87 11.707,26.306 12.305,26.669C13.166,27.196 14.122,27.549 15.119,27.71C15.922,27.831 17.467,27.933 17.635,27.447L17.634,27.448Z" style="fill:rgb(88,94,111);fill-opacity:0.86;fill-rule:nonzero;"/>
+                    <g opacity="0.25">
+                        <path d="M18.248,10.618C22.718,15.441 24.693,15.597 24.485,21.096C24.236,27.572 19.942,29.287 17.427,29.516C13.227,30.067 9.932,27.988 9.069,23.83C7.312,17.063 12.978,6.023 16.637,4.36C16.729,6.531 17.281,8.659 18.258,10.6L18.248,10.618Z" style="fill:rgb(88,94,111);fill-rule:nonzero;"/>
+                    </g>
+                    <g opacity="0.75">
+                        <path d="M17.385,9.921C20.369,14 24.319,13.7 25,19.641C25.094,26.564 21.4,28.924 18.763,29.589C14.263,30.868 10.249,28.944 8.669,24.589C5.634,17.589 11.32,6.075 14.979,3.674C15.293,5.904 16.103,8.035 17.349,9.911L17.385,9.921Z" style="fill:rgb(88,94,111);fill-opacity:0;fill-rule:nonzero;"/>
+                    </g>
+                </g>
+                <g id="elixir2" serif:id="elixir">
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
