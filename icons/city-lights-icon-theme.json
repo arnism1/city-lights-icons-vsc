@@ -370,6 +370,12 @@
     "_stylus_light": {
       "iconPath": "./svg/stylus-icon-active.svg"
     },
+    "_sol": {
+      "iconPath": "./svg/solidity-icon.svg"
+    },
+    "_sol_light": {
+      "iconPath": "./svg/solidity-icon-active.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -450,6 +456,7 @@
     "jsx": "_jsx",
     "typescript": "_typescript",
     "spec.ts": "_typescript",
+    "sol": "_sol",
     "typescriptreact": "_typescript",
     "yml": "_yaml",
     "yaml": "_yml",
