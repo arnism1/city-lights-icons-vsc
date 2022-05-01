@@ -293,10 +293,10 @@
       "iconPath": "./svg/java-icon-active.svg"
     },
     "_jsx": {
-      "iconPath": "./svg/jsx-icon.svg"
+      "iconPath": "./svg/react-icon.svg"
     },
     "_jsx_light": {
-      "iconPath": "./svg/jsx-icon-active.svg"
+      "iconPath": "./svg/react-icon-active.svg"
     },
     "_less": {
       "iconPath": "./svg/less-icon.svg"
