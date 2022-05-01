@@ -1,4 +1,16 @@
-# City light's official icon package for VSCode
+#How to use this Fork?#
+
+
+1. Download Zip File -> and extract it 
+2. Install the Original Extension here:  https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc 
+3. Go to your VsCode Extensions Folder - Example: C:\Users\yourname.vscode\extensions\yummygum.city-lights-icon-vsc-1.1.3
+4. Replace the files in the folder with the extracted files from this fork
+5. Enjoy 
+
+
+#Original Readme#
+
+**City light's official icon package for VSCode**
 
 The City Lights Color Theme is a gorgeous dark syntax theme designed with focus in mind. City Lights Color Theme has many custom made visual aids to help you code faster and more accurate. Over eight of the most popular coding languages are currently supported.
 
