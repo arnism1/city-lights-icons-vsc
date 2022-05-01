@@ -549,7 +549,7 @@
     "sass": "_sass_light",
     "swift": "_swift_light",
     "typescript": "_typescript_light",
-    "typescriptreact": "_typescript_light",
+    "typescriptreact": "_jsx_light",
     "yaml": "_yaml_light",
     "vue-html": "_vue_light",
     "git-commit": "_git_light",

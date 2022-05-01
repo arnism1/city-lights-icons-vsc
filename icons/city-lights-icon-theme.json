@@ -549,7 +549,7 @@
     "sass": "_sass",
     "swift": "_swift",
     "typescript": "_typescript",
-    "typescriptreact": "_typescript",
+    "typescriptreact": "_jsx",
     "yaml": "_yaml",
     "vue-html": "_vue",
     "git-commit": "_git",
