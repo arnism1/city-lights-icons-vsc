@@ -1,4 +1,4 @@
-##How to use this Fork?##
+##How to use this Fork?
 
 
 1. Download Zip File -> and extract it 
@@ -8,7 +8,7 @@
 5. Enjoy 
 
 
-##Original Readme##
+##Original Readme
 
 **City light's official icon package for VSCode**
 
