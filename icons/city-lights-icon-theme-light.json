@@ -391,6 +391,12 @@
     "_nextjs_light": {
       "iconPath": "./svg/nextjs-icon-active.svg"
     },
+    "_tailwind": {
+      "iconPath": "./svg/tailwind-icon-active.svg"
+    },
+    "_tailwind_light": {
+      "iconPath": "./svg/tailwind-icon-active.svg"
+    },
     "_swift_light": {
       "iconPath": "./svg/swift-icon-active.svg"
     },
@@ -592,7 +598,8 @@
     "sass-lint.yml": "_sass_light",
     "procfile": "_heroku_light",
     "npm-debug.log": "_npm_light",
-    "next.config.js": "_nextjs_light"
+    "next.config.js": "_nextjs_light",
+    "tailwind.config.js": "_tailwind_light"
   },
   "options": {
     "hidesExplorerArrows": false

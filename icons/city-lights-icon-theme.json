@@ -593,6 +593,7 @@
     "procfile": "_heroku",
     "npm-debug.log": "_npm",
     "next.config.js": "_nextjs",
+    "tailwind.config.js": "_tailwind"
   },
   "options": {
     "hidesExplorerArrows": false
