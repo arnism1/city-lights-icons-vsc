@@ -1,14 +1,20 @@
-##How to use this Fork?
+## How to use this Fork?
 
 
 1. Download Zip File -> and extract it 
 2. Install the Original Extension here:  https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-icon-vsc 
 3. Go to your VsCode Extensions Folder - Example: C:\Users\yourname.vscode\extensions\yummygum.city-lights-icon-vsc-1.1.3
 4. Replace the files in the folder with the extracted files from this fork
-5. Enjoy 
+5. Enjoy!
 
 
-##Original Readme
+
+
+
+
+
+
+## Original Readme
 
 **City light's official icon package for VSCode**
 
