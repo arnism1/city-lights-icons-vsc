@@ -376,6 +376,12 @@
     "_sol_light": {
       "iconPath": "./svg/solidity-icon-active.svg"
     },
+    "_ex": {
+      "iconPath": "./svg/elixir-icon.svg"
+    },
+    "_ex_light": {
+      "iconPath": "./svg/elixir-icon-active.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -457,6 +463,7 @@
     "typescript": "_typescript",
     "spec.ts": "_typescript",
     "sol": "_sol",
+    "ex": "_ex",
     "typescriptreact": "_typescript",
     "yml": "_yaml",
     "yaml": "_yml",

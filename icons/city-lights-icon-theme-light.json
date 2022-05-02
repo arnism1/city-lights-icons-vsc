@@ -376,6 +376,12 @@
     "_sol_light": {
       "iconPath": "./svg/solidity-icon-active.svg"
     },
+    "_ex": {
+      "iconPath": "./svg/elixir-icon.svg"
+    },
+    "_ex_light": {
+      "iconPath": "./svg/elixir-icon-active.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -461,6 +467,7 @@
     "js": "_js_light",
     "jsx": "_jsx_light",
     "sol": "_sol_light",
+    "ex": "_ex_light",
     "spec.js": "_js_light",
     "js.map": "_js_light",
     "es": "_js_light",
