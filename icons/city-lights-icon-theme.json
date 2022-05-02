@@ -382,6 +382,12 @@
     "_ex_light": {
       "iconPath": "./svg/elixir-icon-active.svg"
     },
+    "_nextjs": {
+      "iconPath": "./svg/nextjs-icon.svg"
+    },
+    "_nextjs_light": {
+      "iconPath": "./svg/nextjs-icon-active.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -585,7 +591,8 @@
     "gulpfile.babel.js": "_gulp",
     "sass-lint.yml": "_sass",
     "procfile": "_heroku",
-    "npm-debug.log": "_npm"
+    "npm-debug.log": "_npm",
+    "next.config.js": "_nextjs",
   },
   "options": {
     "hidesExplorerArrows": false
