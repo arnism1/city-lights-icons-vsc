@@ -388,6 +388,24 @@
     "_nextjs_light": {
       "iconPath": "./svg/nextjs-icon-active.svg"
     },
+    "_tailwind": {
+      "iconPath": "./svg/tailwind-icon.svg"
+    },
+    "_tailwind_light": {
+      "iconPath": "./svg/tailwind-icon-active.svg"
+    },
+    "_nuxt": {
+      "iconPath": "./svg/nuxtjs-icon.svg"
+    },
+    "_nuxt_light": {
+      "iconPath": "./svg/nuxtjs-icon-active.svg"
+    },
+    "_redux": {
+      "iconPath": "./svg/redux-icon.svg"
+    },
+    "_redux_light": {
+      "iconPath": "./svg/redux-icon-active.svg"
+    },
     "_swift": {
       "iconPath": "./svg/swift-icon.svg"
     },
@@ -593,7 +611,9 @@
     "procfile": "_heroku",
     "npm-debug.log": "_npm",
     "next.config.js": "_nextjs",
-    "tailwind.config.js": "_tailwind"
+    "tailwind.config.js": "_tailwind",
+    "nuxt.config.js": "_nuxt",
+    "action.js": "_redux"
   },
   "options": {
     "hidesExplorerArrows": false
